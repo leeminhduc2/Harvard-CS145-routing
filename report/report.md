@@ -2,10 +2,10 @@
 
 ## Author and collaborators
 ### Author name
-(Your name and email address)
+Le Minh Duc - 23020047@vnu.edu.vn 
 
 ### Collaborators
-(List any other collaborators and describe help you got from other students in the class.)
+(None)
 
 ## Report
 (None)
